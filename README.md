@@ -25,13 +25,13 @@
 ### Bài 5.2: Quản lý dịch vụ chiết 
 
 #### 1. Ảnh màn hình Giao diện chính
-<img width="898" height="579" alt="2aOboR4Vb4xgBsEpw50HuDuCup6QubsXhiRWfASu" src="https://github.com/user-attachments/assets/c46bf761-387d-42f5-99a2-990a27d02408" />
+<img width="800" height="490" alt="Ảnh chụp màn hình 2026-10-10 151451" src="https://github.com/user-attachments/assets/7517a9b5-b7c9-4050-b64b-865eae1c6a7e" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-<img width="1180" height="595" alt="2aOboR4Vb8SjNB9wSmF5ir8NPIROnZ81Iumuhrrk" src="https://github.com/user-attachments/assets/8d376cf4-8002-428a-bc2e-a1dfb38ceac9" />
+<img width="797" height="483" alt="Ảnh chụp màn hình 2026-10-10 151517" src="https://github.com/user-attachments/assets/d3589ec9-85ee-48e0-b59c-4b0ace8c5c27" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-<img width="1302" height="634" alt="2aOboR4Vb1NZCZqpTb0qC6qoTszd8zRWFNHLw8HY" src="https://github.com/user-attachments/assets/a573b17d-3f8a-4a3b-b22f-b5fefac59073" />
+<img width="797" height="485" alt="Ảnh chụp màn hình 2026-10-10 151554" src="https://github.com/user-attachments/assets/66586d3f-cc35-4dd6-9681-717e92bf417c" />
 
 ---
 
