@@ -13,14 +13,13 @@
 ### Bài 5.1: Form Đăng ký tài khoản
 
 #### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/bai51_main_ui.png)
+<img width="797" height="483" alt="Ảnh chụp màn hình 2026-10-10 144130" src="https://github.com/user-attachments/assets/6c88b810-73d1-4057-8cd3-52154d84e889" />
 
 #### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/bai51_execution_result.png)
+<img width="797" height="577" alt="Ảnh chụp màn hình 2026-10-10 144203" src="https://github.com/user-attachments/assets/47d5955d-7cbb-46ab-8612-fcaa044fdacb" />
 
 #### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
-![Kiểm tra lỗi](./screenshots/bai51_validation_error.png)
-
+<img width="801" height="486" alt="Ảnh chụp màn hình 2026-10-10 144116" src="https://github.com/user-attachments/assets/526aaf96-1ee7-46b5-a8bf-e770ee029af7" />
 ---
 
 ### Bài 5.2: Quản lý dịch vụ chiết 
